@@ -1,0 +1,82 @@
+.h1 {
+	font-size: 59px;
+	color: #0C1A47;
+	margin-top: 46px;
+	margin-left: 528px;
+	margin-right: 527px;
+	font-family: 'Anton', sans-serif;
+}
+.navigation {
+	display: flex;
+	margin-top: 78px;
+	margin-left: 153px;
+}
+.navli {
+	font-size: 25px;
+}
+.nav-li {
+	font-size: 25px;
+	margin-left: 89px;
+
+}
+.section-1 {
+	height: 480px;
+}
+.div-1 {
+	margin-top: 58px;
+	position: relative;
+}
+.img-1 {
+	width: 1349px;
+	position: absolute;
+}
+.img-2 {
+	width: 1349px;
+	position: absolute;
+}	
+.text-1 {
+	font-size: 61px;
+	color: white;
+	position: absolute;
+	width: 423px;
+	top: 180px; 
+	left: 453px;
+	bottom: 243px; 
+	right: 490px;
+	font-family: 'Roboto', sans-serif;
+
+}
+.text-2 {
+	font-size: 25px;
+	color: white;
+	position: absolute;
+	width: 266px;
+	top: 278px; 
+	left: 517px;
+	bottom: 181px; 
+	right: 583px;
+	font-family: 'Quicksand', sans-serif;
+
+}
+.h1-exhibitions {
+	font-size: 56px;
+	margin-top: 102px;
+	margin-right: 150px;
+	margin-left: 533px;
+	color: black;
+}
+.div-column1{
+	height: 1px;
+	width: 450px;
+	background-color: black;
+	margin-left: 400px;
+	margin-top: 2px;
+
+}
+.div-column2 {
+	height: 1px;
+	width: 450px;
+	background-color: black;
+	margin-left: 465px;
+	margin-top: 5px;
+}
