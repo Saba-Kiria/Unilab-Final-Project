@@ -80,3 +80,43 @@
 	margin-left: 465px;
 	margin-top: 5px;
 }
+.main-div {
+	display: flex;
+}
+.indiv-1 {
+	margin-left: 141px;
+	margin-top: 51px;
+}
+.indiv-text {
+	font-size: 32px;
+	color: black;
+}
+.indiv-text1 {
+	font-size: 21px;
+	color: #8B8B8B;
+	margin-top: 11px;
+}
+.indiv-text2 {
+	font-size: 25px;
+	color: #8B8B8B;
+	margin-top: 11px;
+}
+.button-1 {
+	width: 123px;
+	height: 47px;
+	background-color: #608E4D;
+	border-radius: 20px;
+	border: none;
+	margin-top: 23px;
+	margin-left: 110px;
+
+}
+.in-button {
+	color: white;
+	font-size: 20px;
+	font-family: 'Roboto', sans-serif;
+}
+.indiv-2 {
+	margin-left: 20px;
+	margin-top: 51px;
+}
