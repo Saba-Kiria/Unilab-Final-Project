@@ -19,16 +19,21 @@
 	margin-left: 89px;
 
 }
+.section-1 {
+	height: 480px;
+}
 .div-1 {
 	margin-top: 58px;
 	position: relative;
 }
 .img-1 {
+	position: absolute;
 	width: 100%;
 }
 .img-2 {
 	width: 100%;
-}	
+	position: absolute;
+}
 .text-1 {
 	font-size: 61px;
 	color: white;
