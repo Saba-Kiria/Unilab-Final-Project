@@ -129,7 +129,6 @@
 	border: none;
 	margin-left: 75px;
 	margin-top: 30px;
-
 }
 .in-button {
 	color: white;
@@ -155,6 +154,11 @@
 	background-color: #F3EFEF;
 	margin-top: 111px;
 	border: none;
+	transition: 0.4s;
+}
+.button-2:hover {
+	background-color: #3e8e41;
+  	color: white;
 }
 .in-button2 {
 	font-size: 20px;
@@ -211,9 +215,13 @@
 	background-color: #FFBD4B;
 	width: 256px;
 	height: 80px;
-	/*margin-left: 554px;*/
 	margin-top: 111px;
 	border: none;
+	transition: 0.4s;
+}
+.button-4:hover {
+	background-color: #D1D1D1;
+  	color: white;
 }
 .section-3 {
 	margin-top: 150px;
