@@ -106,6 +106,12 @@
 }
 .indiv-1 {
 	margin-top: 51px;
+	cursor:pointer;
+    border-radius: 10px;
+    transition: all 0.3s;
+}
+.indiv-1:hover{
+    transform: scale(1.03);
 }
 .indiv-text {
 	font-size: 32px;
@@ -138,6 +144,12 @@
 .indiv-2 {
 	margin-left: 40px;
 	margin-top: 51px;
+	cursor:pointer;
+    border-radius: 10px;
+    transition: all 0.3s;
+}
+.indiv-2:hover {
+	 transform: scale(1.03);
 }
 .hai-img {
 	width: 348px;	 
