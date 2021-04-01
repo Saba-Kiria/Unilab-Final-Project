@@ -1,5 +1,6 @@
 .h1-container {
-	width: 312px;
+	max-width: 312px;
+	width: 100%;
 	margin-left: auto; 
 	margin-right: auto;
 }
@@ -7,12 +8,11 @@
 	font-size: 59px;
 	color: #0C1A47;
 	margin-top: 46px;
-	/*margin-left: 554px;
-	margin-right: 527px;*/
 	font-family: 'Anton', sans-serif;
 }
 .nav-container {
-	width: 1025px;
+	max-width: 1025px;
+	width: 100%;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -44,7 +44,8 @@
 	position: absolute;
 }
 .indiv-container {
-	width: 425px;
+	max-width: 425px;
+	width: 100%;
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;
@@ -69,7 +70,8 @@
 
 }
 .exh-container {
-	width: 278px;
+	max-width: 278px;
+	width: 100%;
 	margin-left: auto; 
 	margin-right: auto;
 }
@@ -80,7 +82,8 @@
 }
 .div-column1{
 	height: 1px;
-	width: 420px;
+	max-width: 420px;
+	width: 100%;
 	background-color: black;
 	margin-left: 438px;
 	margin-top: 2px;
@@ -88,13 +91,15 @@
 }
 .div-column2 {
 	height: 1px;
-	width: 420px;
+	max-width: 420px;
+	width: 100%;
 	background-color: black;
 	margin-left: 490px;
 	margin-top: 10px;
 }
 .main-container {
-	width: 1084px;
+	max-width: 1084px;
+	width: 100%;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -125,7 +130,8 @@
 	margin-top: 11px;
 }
 .button-1 {
-	width: 123px;
+	max-width: 123px;
+	width: 100%;
 	height: 47px;
 	background-color: #608E4D;
 	border-radius: 20px;
@@ -149,16 +155,19 @@
 	 transform: scale(1.03);
 }
 .hai-img {
-	width: 348px;	 
+	max-width: 348px;	
+	width: 100%; 
 	height: 285px;
 }
 .container {
-	width: 256px;
+	max-width: 256px;
+	width: 100%;
 	margin-left: auto;
 	margin-right: auto;
 }
 .button-2 {
-	width: 256px;
+	max-width: 256px;
+	width: 100%;
 	height: 88px;
 	background-color: #F3EFEF;
 	margin-top: 111px;
@@ -222,7 +231,8 @@
 }
 .button-4 {
 	background-color: #FFBD4B;
-	width: 256px;
+	max-width: 256px;
+	width: 100%;
 	height: 80px;
 	margin-top: 111px;
 	border: none;
@@ -250,14 +260,16 @@
 	margin-top: 20px;
 }
 .exh-container2 {
-	width: 546px;
+	max-width: 546px;
+	width: 100%;
 	margin-left: auto; 
 	margin-right: auto;
 }
 .div-column3 {
 	position: absolute;
 	height: 1px;
-	width: 480px;
+	max-width: 480px;
+	width: 100%;
 	background-color: white;
 	margin-left: 380px;
 	margin-top: 80px;
@@ -265,7 +277,8 @@
 .div-column4 {
 	position: absolute;
 	height: 1px;
-	width: 490px;
+	max-width: 490px;
+	width: 100%;
 	background-color: white;
 	margin-left: 470px;
 	margin-top: 95px;
@@ -287,7 +300,8 @@
 	border: none;
 	position: absolute;
 	background-color: #FFBD4B;
-	width: 132px;
+	max-width: 132px;
+	width: 100%;
 	height: 66px;
 	left: 773px;
 	top: 406px;
@@ -303,20 +317,23 @@
 }
 .div-column5 {
 	height: 1px;
-	width: 400px;
+	max-width: 400px;
+	width: 100%;
 	background-color: black;
 	margin-left: 450px;
 	margin-top: 2px;
 }
 .div-column6 {
 	height: 1px;
-	width: 400px;
+	max-width: 400px;
+	width: 100%;
 	background-color: black;
 	margin-left: 500px;
 	margin-top: 10px;
 }
 .last-container {
-	width: 1088px;
+	max-width: 1088px;
+	width: 100%;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -335,7 +352,8 @@
 	margin-top: 16px;
 }
 .minmal2 {
-	width: 483px;
+	max-width: 483px;
+	width: 100%;
 	color: #919191;
 	font-size: 20px;
 	margin-top: 42px;
@@ -345,22 +363,26 @@
 	margin-left: 20px;
 }
 .exh-container5 {
-	width: 139px;
+	max-width: 139px;
+	width: 100%;
 	margin-left: auto;
 	margin-right: auto;
 }
 .exh-container3 {
-	width: 164px;
+	max-width: 164px;
+	width: 100%;
 	margin-left: auto;
 	margin-right: auto;
 }
 .column-container {
-	width: 586px;
+	max-width: 586px;
+	width: 100%;
 	margin-left: auto;
 	margin-right: auto;
 }
 .button-div {
-	width: 256px;
+	max-width: 256px;
+	width: 100%;
 	margin-right: auto;
 	margin-left: auto;
 }
@@ -396,7 +418,8 @@
 	left: 747px;
 	position: absolute;
 	background-color: #F2E56D;
-	width: 478px; 
+	max-width: 478px;
+	width: 100%; 
 	height:71px;
 	transition: 0.4s;
 }
